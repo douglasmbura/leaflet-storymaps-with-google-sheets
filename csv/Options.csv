@@ -1,7 +1,7 @@
 Setting,Customize,Hints,Examples
 Storymap Info,,,
 Storymap Title,My Story Map,,
-Storymap Subtitle,Insert my subtitle here,,
+Storymap Subtitle,Visibilidade,,
 Map Settings,,,
 Basemap Tiles,CartoDB.Positron,Drop-down menu for background basemap tiles,https://leaflet-extras.github.io/leaflet-providers/preview/
 Zoom Controls,bottomright,,
